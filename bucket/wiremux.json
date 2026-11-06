@@ -1,12 +1,12 @@
 {
-    "version": "0.11.10",
+    "version": "0.11.11",
     "description": "Wiremux maps Chat Completions, Messages, Responses, Gemini, and Converse through one IR.",
     "homepage": "https://github.com/wiremuxhq/wiremux",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wiremuxhq/wiremux/releases/download/v0.11.10/wiremux-x86_64-pc-windows-msvc.zip",
-            "hash": "fc548ad14ea7b77564a486848ed86a12d80a8b06ae9db979ebf50f932b01cbeb"
+            "url": "https://github.com/wiremuxhq/wiremux/releases/download/v0.11.11/wiremux-x86_64-pc-windows-msvc.zip",
+            "hash": "78f57c0bbf0970608b0ae2dfbc921c89064562e5d38140f6a33b146718823bda"
         }
     },
     "bin": "wiremux.exe",
